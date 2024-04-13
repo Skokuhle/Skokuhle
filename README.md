@@ -2,7 +2,7 @@
 - 👀 I’m interested in API. Data science, Backend
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me , email @skokokuhle55@gmail.com
+- 📫 How to reach me , email @skokuhle55@gmail.com
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I can't ...
 
