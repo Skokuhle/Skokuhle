@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skokuhle
-- 👀 I’m interested in API. Data science, Backend
+- 👀 I’m interested in API. Data science, Backend development
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Django projects, Web development
 - 📫 How to reach me , email @skokuhle55@gmail.com
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I can't ...
